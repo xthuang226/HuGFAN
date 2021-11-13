@@ -2,7 +2,7 @@
 Supplementary Files, Figures and Tables.
 
 ## Supplementary File 1.csv
-The constructed 369 features with types.
+The constructed 369 features with types. Positive samples are chosen using 'db_KEGG' and 'db_Reactome', whereas negative samples are chosen using 'db_Negatome'. These three features are omitted during training and validation.
 
 ## Supplementary File 2.csv
 HuGFAN (1,185,429 interactions) with S<sub>ppc</sub> confidence score.

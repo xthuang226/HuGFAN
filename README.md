@@ -18,8 +18,20 @@ Figure S1: The power law fitting of HuGFAN and other networks. Ranked by Kolmogo
 
 Figure S2: The enrichment results of GO terms and pathways for HuGFAN top 100 genes in rankings of the five centralities.
 
+Figure S3: Correlation between features.
+
+Figure S4: Boxplots of the continuous features.
+
 Table S1: Network topology metrics comparison between HuGFAN and other networks.
 
 Table S2: Prediction performance comparison between HuGFAN and other networks with DriverNet.
 
 Table S3: Prediction performance comparison between HuGFAN and other networks with HotNet2.
+
+Table S4: High correlation features.
+
+Table S5: Variance and mean of the continuous features.
+
+Table S6: Prediction performance comparison between different data pre-processing.
+
+Table S7: Parameters setting of random forest and other baseline classifiers.
